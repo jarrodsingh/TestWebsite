@@ -1,0 +1,28 @@
+#heading
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    text-align: center;
+    padding-bottom: 40px;
+    padding-top: 20px;
+}
+
+#list
+{
+    text-align: center;
+}
+
+li 
+{
+  font-family: cursive;
+  font-size: medium;   
+  text-align: center;
+  visibility:hidden;
+}
+
+#listHead
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    text-align: center;
+}
